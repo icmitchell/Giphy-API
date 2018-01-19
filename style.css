@@ -1,0 +1,14 @@
+.gifDiv {
+	float: left;
+	text-align: center;
+	font-size: 20px;
+}
+.row1 {
+	height: 130px;
+}
+.category {
+	margin: 5px;
+}
+.gif {
+	margin: 5px;
+}
